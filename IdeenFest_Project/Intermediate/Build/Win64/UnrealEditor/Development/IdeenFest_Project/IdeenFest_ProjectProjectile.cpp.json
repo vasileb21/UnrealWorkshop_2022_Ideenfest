@@ -1,0 +1,23 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\dev\\git\\unrealworkshop_2022_ideenfest\\ideenfest_project\\source\\ideenfest_project\\ideenfest_projectprojectile.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\dev\\git\\unrealworkshop_2022_ideenfest\\ideenfest_project\\intermediate\\build\\win64\\ideenfest_projecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\dev\\git\\unrealworkshop_2022_ideenfest\\ideenfest_project\\intermediate\\build\\win64\\unrealeditor\\development\\ideenfest_project\\definitions.ideenfest_project.h",
+            "g:\\dev\\git\\unrealworkshop_2022_ideenfest\\ideenfest_project\\source\\ideenfest_project\\ideenfest_projectprojectile.h",
+            "g:\\dev\\git\\unrealworkshop_2022_ideenfest\\ideenfest_project\\intermediate\\build\\win64\\unrealeditor\\inc\\ideenfest_project\\ideenfest_projectprojectile.generated.h",
+            "g:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\projectilemovementcomponent.h",
+            "g:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "g:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\movementcomponent.generated.h",
+            "g:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\projectilemovementcomponent.generated.h",
+            "g:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "g:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "g:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "g:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\spherecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

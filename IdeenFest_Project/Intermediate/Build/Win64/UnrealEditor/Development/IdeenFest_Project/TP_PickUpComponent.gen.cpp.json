@@ -1,0 +1,27 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\dev\\git\\unrealworkshop_2022_ideenfest\\ideenfest_project\\intermediate\\build\\win64\\unrealeditor\\inc\\ideenfest_project\\tp_pickupcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\dev\\git\\unrealworkshop_2022_ideenfest\\ideenfest_project\\intermediate\\build\\win64\\ideenfest_projecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\dev\\git\\unrealworkshop_2022_ideenfest\\ideenfest_project\\intermediate\\build\\win64\\unrealeditor\\development\\ideenfest_project\\definitions.ideenfest_project.h",
+            "g:\\dev\\git\\unrealworkshop_2022_ideenfest\\ideenfest_project\\source\\ideenfest_project\\tp_pickupcomponent.h",
+            "g:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\spherecomponent.h",
+            "g:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "g:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "g:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\spherecomponent.generated.h",
+            "g:\\dev\\git\\unrealworkshop_2022_ideenfest\\ideenfest_project\\source\\ideenfest_project\\ideenfest_projectcharacter.h",
+            "g:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "g:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "g:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "g:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "g:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "g:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "g:\\dev\\git\\unrealworkshop_2022_ideenfest\\ideenfest_project\\intermediate\\build\\win64\\unrealeditor\\inc\\ideenfest_project\\ideenfest_projectcharacter.generated.h",
+            "g:\\dev\\git\\unrealworkshop_2022_ideenfest\\ideenfest_project\\intermediate\\build\\win64\\unrealeditor\\inc\\ideenfest_project\\tp_pickupcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

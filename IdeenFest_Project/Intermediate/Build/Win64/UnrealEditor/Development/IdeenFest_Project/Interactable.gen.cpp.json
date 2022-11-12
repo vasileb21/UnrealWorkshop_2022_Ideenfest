@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\dev\\git\\unrealworkshop_2022_ideenfest\\ideenfest_project\\intermediate\\build\\win64\\unrealeditor\\inc\\ideenfest_project\\interactable.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\dev\\git\\unrealworkshop_2022_ideenfest\\ideenfest_project\\intermediate\\build\\win64\\ideenfest_projecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\dev\\git\\unrealworkshop_2022_ideenfest\\ideenfest_project\\intermediate\\build\\win64\\unrealeditor\\development\\ideenfest_project\\definitions.ideenfest_project.h",
+            "g:\\dev\\git\\unrealworkshop_2022_ideenfest\\ideenfest_project\\source\\ideenfest_project\\interactable.h",
+            "g:\\dev\\git\\unrealworkshop_2022_ideenfest\\ideenfest_project\\intermediate\\build\\win64\\unrealeditor\\inc\\ideenfest_project\\interactable.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

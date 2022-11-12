@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "IdeenFest_Project",
+			"Path": "G:\\Dev\\Git\\UnrealWorkshop_2022_Ideenfest\\IdeenFest_Project\\Source\\IdeenFest_Project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "IdeenFest_ProjectEditor",
+			"Path": "G:\\Dev\\Git\\UnrealWorkshop_2022_Ideenfest\\IdeenFest_Project\\Source\\IdeenFest_ProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
