@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\IdeenFest_Project.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\IdeenFest_Project.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\IdeenFest_ProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\IdeenFest_Project">
+      <UniqueIdentifier>{7CC17BE3-7B5B-3B55-B328-767ADF83171C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\IdeenFest_Project\CharacterBase.cpp">
+      <Filter>Source\IdeenFest_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IdeenFest_Project\CharacterBase.h">
+      <Filter>Source\IdeenFest_Project</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\IdeenFest_Project\IdeenFest_Project.Build.cs">
+      <Filter>Source\IdeenFest_Project</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\IdeenFest_Project\IdeenFest_Project.cpp">
+      <Filter>Source\IdeenFest_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IdeenFest_Project\IdeenFest_Project.h">
+      <Filter>Source\IdeenFest_Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IdeenFest_Project\IdeenFest_ProjectCharacter.cpp">
+      <Filter>Source\IdeenFest_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IdeenFest_Project\IdeenFest_ProjectCharacter.h">
+      <Filter>Source\IdeenFest_Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IdeenFest_Project\IdeenFest_ProjectGameMode.cpp">
+      <Filter>Source\IdeenFest_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IdeenFest_Project\IdeenFest_ProjectGameMode.h">
+      <Filter>Source\IdeenFest_Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IdeenFest_Project\IdeenFest_ProjectProjectile.cpp">
+      <Filter>Source\IdeenFest_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IdeenFest_Project\IdeenFest_ProjectProjectile.h">
+      <Filter>Source\IdeenFest_Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IdeenFest_Project\Interactable.cpp">
+      <Filter>Source\IdeenFest_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IdeenFest_Project\Interactable.h">
+      <Filter>Source\IdeenFest_Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IdeenFest_Project\TP_PickUpComponent.cpp">
+      <Filter>Source\IdeenFest_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IdeenFest_Project\TP_PickUpComponent.h">
+      <Filter>Source\IdeenFest_Project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IdeenFest_Project\TP_WeaponComponent.cpp">
+      <Filter>Source\IdeenFest_Project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IdeenFest_Project\TP_WeaponComponent.h">
+      <Filter>Source\IdeenFest_Project</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
