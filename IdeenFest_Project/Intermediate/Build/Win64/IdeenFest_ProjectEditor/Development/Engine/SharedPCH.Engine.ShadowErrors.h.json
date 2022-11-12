@@ -1,10 +1,10 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\maali\\onedrive\\desktop\\ideenfest_project\\intermediate\\build\\win64\\ideenfest_projecteditor\\development\\engine\\sharedpch.engine.shadowerrors.cpp",
+        "Source": "g:\\dev\\git\\unrealworkshop_2022_ideenfest\\ideenfest_project\\intermediate\\build\\win64\\ideenfest_projecteditor\\development\\engine\\sharedpch.engine.shadowerrors.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "c:\\users\\maali\\onedrive\\desktop\\ideenfest_project\\intermediate\\build\\win64\\ideenfest_projecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h",
+            "g:\\dev\\git\\unrealworkshop_2022_ideenfest\\ideenfest_project\\intermediate\\build\\win64\\ideenfest_projecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h",
             "g:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\enginesharedpch.h",
             "g:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\containers\\containersfwd.h",
             "g:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\hal\\platform.h",
@@ -427,6 +427,8 @@
             "g:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\async\\taskgraphinterfaces.h",
             "g:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\experimental\\concurrentlinearallocator.h",
             "g:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\hal\\mallocansi.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\sanitizer\\asan_interface.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\sanitizer\\common_interface_defs.h",
             "g:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\async\\fundamental\\task.h",
             "g:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\async\\fundamental\\taskdelegate.h",
             "g:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\misc\\scopeexit.h",

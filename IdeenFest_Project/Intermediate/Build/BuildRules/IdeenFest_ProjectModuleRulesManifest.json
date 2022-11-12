@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\maali\\OneDrive\\Desktop\\IdeenFest_Project\\Source\\IdeenFest_Project\\IdeenFest_Project.Build.cs",
-		"C:\\Users\\maali\\OneDrive\\Desktop\\IdeenFest_Project\\Source\\IdeenFest_Project.Target.cs",
-		"C:\\Users\\maali\\OneDrive\\Desktop\\IdeenFest_Project\\Source\\IdeenFest_ProjectEditor.Target.cs"
+		"G:\\Dev\\Git\\UnrealWorkshop_2022_Ideenfest\\IdeenFest_Project\\Source\\IdeenFest_Project\\IdeenFest_Project.Build.cs",
+		"G:\\Dev\\Git\\UnrealWorkshop_2022_Ideenfest\\IdeenFest_Project\\Source\\IdeenFest_Project.Target.cs",
+		"G:\\Dev\\Git\\UnrealWorkshop_2022_Ideenfest\\IdeenFest_Project\\Source\\IdeenFest_ProjectEditor.Target.cs"
 	],
 	"EngineVersion": "5.0.3"
 }
